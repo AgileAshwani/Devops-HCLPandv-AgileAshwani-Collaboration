@@ -4,14 +4,14 @@
 echo hello $name
 ```
 
-```powershell
+```Powershell
 get-process -name *note*
 ```
 
-```powershell
+```Powershell
 echo hello $name
 ```
 
-```bash
+```Bash
 get-process -name *note*
 ```
