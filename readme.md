@@ -16,6 +16,7 @@
 > :point_right: **Install Vagrant** *[Click Here](https://www.vagrantup.com/downloads.html)*
 >
 > :point_right: **Install Oracle VirtualBox** *[Click Here](https://www.virtualbox.org/wiki/Downloads)*
+>
 > **Note:** If you wish to use VirtualBox on Windows, you must ensure that Hyper-V is not enabled on Windows. You can turn off the feature by running this Powershell command:
 > :point_down:
 > ```Powershell
@@ -24,3 +25,13 @@
 >
 > :point_right: **Install WSL [Windows Subsystem Linux]**
 >
+> **Open PowerShell as Administrator and run:**
+> ```powershell
+> Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+> ```
+> ```powershell
+> Invoke-WebRequest -Uri https://aka.ms/wsl-ubuntu-1804 -OutFile ~/Ubuntu.appx -UseBasicParsing
+> ```
+> ```powershell
+> Add-AppxPackage -Path ~/Ubuntu.appx
+> ```
