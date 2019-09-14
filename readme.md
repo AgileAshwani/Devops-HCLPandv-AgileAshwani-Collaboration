@@ -25,7 +25,7 @@
 >
 > :point_right: **Install WSL [Windows Subsystem Linux]**
 >
-> **Open PowerShell as Administrator and run:**
+> Open PowerShell as Administrator and run:
 > ```powershell
 > Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 > ```
