@@ -6,5 +6,5 @@
 >
 > *[Click Here for Basic PowerShell Concepts](https://github.com/hclpandv/powershell-training-material)*
 
-:+1
+:+1:
 
