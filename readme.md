@@ -11,6 +11,6 @@
 **Hurray :+1: let's move forward quickly now towards Setting up our Environment :runner:**
 
 ### MustHave Stuff to Begin
-> :point_right: **Create a GitHub account for Collaboration** *[Try Me](https://github.com/join) "/play yeah"*
+> :point_right: **Create a GitHub account for Collaboration** *[Try Me](https://github.com/join) :/play yeah:*
 >
 > :point_right: ** **
