@@ -16,7 +16,7 @@
 > :point_right: **Install Vagrant** *[Click Here](https://www.vagrantup.com/downloads.html)*
 >
 > :point_right: **Install Oracle VirtualBox** *[Click Here](https://www.virtualbox.org/wiki/Downloads)*
-> If you wish to use VirtualBox on Windows, you must ensure that Hyper-V is not enabled on Windows. You can turn off the feature by running this Powershell command:
+> **Note:**If you wish to use VirtualBox on Windows, you must ensure that Hyper-V is not enabled on Windows. You can turn off the feature by running this Powershell command:
 > :point_down:
 > ```Powershell
 > Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-All
