@@ -6,5 +6,4 @@
 >
 > *[Click Here for Basic PowerShell Concepts](https://github.com/hclpandv/powershell-training-material)*
 
-:+1:
-
+**Hurray :+1: let's move forward quickly now towards Setting up our Environment :runner:**
