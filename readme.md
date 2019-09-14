@@ -1,23 +1,29 @@
 # Devops Learning Path
 
-'''bash
-
+```Bash
 echo hello $name
-'''
+```
 
-'''powershell
-
+```Powershell
 get-process -name *note*
-'''
+```
 
-'
+`
 Hello
-'
+`
 
-''
+``
 Hello
-''
+``
 
-'''
+```
 Hello
-'''
+```
+
+````
+Hello
+````
+
+```````
+Hello
+``````
