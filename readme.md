@@ -13,6 +13,14 @@
 ### MustHave Stuff to Begin
 > :point_right: **Create a GitHub account for Collaboration** *[Try Me](https://github.com/join)*
 >
-> :point_right: ** **
-
-:runner: **Construction in full swing**
+> :point_right: **Install Vagrant** *[Click Here](https://www.vagrantup.com/downloads.html)*
+>
+> :point_right: **Install Oracle VirtualBox** *[Click Here](https://www.virtualbox.org/wiki/Downloads)*
+> If you wish to use VirtualBox on Windows, you must ensure that Hyper-V is not enabled on Windows. You can turn off the feature by running this Powershell command:
+> :point_down:
+> ```Powershell
+> Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-All
+> ```
+>
+> :point_right: **Install WSL [Windows Subsystem Linux]**
+>
